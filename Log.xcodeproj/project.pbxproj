@@ -411,20 +411,21 @@
 					};
 					6DACCA391C89F89D001B63D9 = {
 						CreatedOnToolsVersion = 7.2;
-						LastSwiftMigration = 0940;
+						LastSwiftMigration = 1020;
 					};
 					6DACCA421C89F89E001B63D9 = {
 						CreatedOnToolsVersion = 7.2;
-						LastSwiftMigration = 0940;
+						LastSwiftMigration = 1020;
 					};
 				};
 			};
 			buildConfigurationList = 6D06F6C11C189C4B0010110E /* Build configuration list for PBXProject "Log" */;
 			compatibilityVersion = "Xcode 3.2";
-			developmentRegion = English;
+			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
+				Base,
 			);
 			mainGroup = 6D06F6BD1C189C4B0010110E;
 			productRefGroup = 6D06F6C81C189C4B0010110E /* Products */;
@@ -923,8 +924,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = io.delba.Log;
 				PRODUCT_NAME = Log;
 				SKIP_INSTALL = YES;
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -946,8 +946,7 @@
 				PRODUCT_NAME = Log;
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_SWIFT3_OBJC_INFERENCE = Default;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
@@ -959,8 +958,7 @@
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "io.delba.Log-iOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -973,8 +971,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "io.delba.Log-iOSTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_SWIFT3_OBJC_INFERENCE = On;
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
