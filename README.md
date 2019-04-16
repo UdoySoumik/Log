@@ -137,7 +137,7 @@ $ brew install carthage
 To integrate Log into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```ogdl
-github "delba/Log"
+github "UdoySoumik/Log"
 ```
 
 ### CocoaPods
